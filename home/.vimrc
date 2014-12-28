@@ -66,7 +66,9 @@ autocmd BufEnter,BufFilePost * call SetTitle()
 
 runtime macros/matchit.vim
 
-colorscheme desert
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
 set number
 
 let mapleader = ","
@@ -89,3 +91,5 @@ if has("unix")
 else
   nmap <Leader>,e :e <C-R>=expand("%:p:h") . "\\"<CR>
 endif
+
+let g:airline_powerline_fonts = 1
