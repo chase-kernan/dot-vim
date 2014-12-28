@@ -1,0 +1,60 @@
+[submodule "home/.vim/bundle/vim-pathogen"]
+	path = home/.vim/bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "home/.vim/bundle/ctrlp.vim"]
+	path = home/.vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "home/.vim/bundle/matchit"]
+	path = home/.vim/bundle/matchit
+	url = https://github.com/tmhedberg/matchit.git
+[submodule "home/.vim/bundle/vim-eunuch"]
+	path = home/.vim/bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "home/.vim/bundle/supertab"]
+	path = home/.vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "home/.vim/bundle/vim-bundler"]
+	path = home/.vim/bundle/vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "home/.vim/bundle/vim-rails"]
+	path = home/.vim/bundle/vim-rails
+	url = https://github.com/tpope/vim-rails
+[submodule "home/.vim/bundle/vim-sleuth"]
+	path = home/.vim/bundle/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
+[submodule "home/.vim/bundle/vim-dispatch"]
+	path = home/.vim/bundle/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git
+[submodule "home/.vim/bundle/vim-rspec"]
+	path = home/.vim/bundle/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "home/.vim/bundle/vim-surround"]
+	path = home/.vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "home/.vim/bundle/vim-textobj-user"]
+	path = home/.vim/bundle/vim-textobj-user
+	url = https://github.com/kana/vim-textobj-user.git
+[submodule "home/.vim/bundle/vim-textobj-between"]
+	path = home/.vim/bundle/vim-textobj-between
+	url = https://github.com/thinca/vim-textobj-between.git
+[submodule "home/.vim/bundle/vim-textobj-brace"]
+	path = home/.vim/bundle/vim-textobj-brace
+	url = https://github.com/Julian/vim-textobj-brace.git
+[submodule "home/.vim/bundle/vim-textobj-indent"]
+	path = home/.vim/bundle/vim-textobj-indent
+	url = https://github.com/kana/vim-textobj-indent.git
+[submodule "home/.vim/bundle/vim-textobj-lastpat"]
+	path = home/.vim/bundle/vim-textobj-lastpat
+	url = https://github.com/kana/vim-textobj-lastpat.git
+[submodule "home/.vim/bundle/vim-textobj-quotes"]
+	path = home/.vim/bundle/vim-textobj-quotes
+	url = https://github.com/beloglazov/vim-textobj-quotes.git
+[submodule "home/.vim/bundle/vim-textobj-variable-segment"]
+	path = home/.vim/bundle/vim-textobj-variable-segment
+	url = https://github.com/Julian/vim-textobj-variable-segment.git
+[submodule "home/.vim/bundle/vim-textobj-xmlattr"]
+	path = home/.vim/bundle/vim-textobj-xmlattr
+	url = https://github.com/whatyouhide/vim-textobj-xmlattr.git
+[submodule "home/.vim/bundle/vim-textobj-syntax"]
+	path = home/.vim/bundle/vim-textobj-syntax
+	url = https://github.com/kana/vim-textobj-syntax.git
