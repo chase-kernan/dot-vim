@@ -79,12 +79,12 @@
 [submodule "home/.vim/bundle/tabular"]
 	path = home/.vim/bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
-[submodule "home/.vim/bundle/snipmate"]
-	path = home/.vim/bundle/snipmate
-	url = https://github.com/msanders/snipmate.vim
 [submodule "home/.vim/bundle/vim-easymotion"]
 	path = home/.vim/bundle/vim-easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
 [submodule "home/.vim/bundle/vim-colors-solarized"]
 	path = home/.vim/bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "home/.vim/bundle/vim-snipmate"]
+	path = home/.vim/bundle/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate
