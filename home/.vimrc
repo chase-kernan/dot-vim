@@ -97,3 +97,5 @@ let g:airline_powerline_fonts = 1
 " let g:SuperTabDefaultCompletionType = "context"
 
 let g:ctrlp_working_path_mode = ''
+
+autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
