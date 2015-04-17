@@ -94,4 +94,6 @@ endif
 
 let g:airline_powerline_fonts = 1
 
-let g:SuperTabDefaultCompletionType = "context"
+" let g:SuperTabDefaultCompletionType = "context"
+
+let g:ctrlp_working_path_mode = ''

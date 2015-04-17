@@ -94,3 +94,6 @@
 [submodule "home/.vim/bundle/tlib_vim"]
 	path = home/.vim/bundle/tlib_vim
 	url = https://github.com/tomtom/tlib_vim
+[submodule "home/.vim/bundle/vim-textobj-parameter"]
+	path = home/.vim/bundle/vim-textobj-parameter
+	url = https://github.com/sgur/vim-textobj-parameter
