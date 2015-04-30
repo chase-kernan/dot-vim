@@ -97,3 +97,6 @@
 [submodule "home/.vim/bundle/vim-textobj-parameter"]
 	path = home/.vim/bundle/vim-textobj-parameter
 	url = https://github.com/sgur/vim-textobj-parameter
+[submodule "home/.vim/bundle/vim-cjsx"]
+	path = home/.vim/bundle/vim-cjsx
+	url = https://github.com/mtscout6/vim-cjsx.git
