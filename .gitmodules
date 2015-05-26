@@ -100,3 +100,6 @@
 [submodule "home/.vim/bundle/vim-cjsx"]
 	path = home/.vim/bundle/vim-cjsx
 	url = https://github.com/mtscout6/vim-cjsx.git
+[submodule "home/.vim/bundle/vim-less"]
+	path = home/.vim/bundle/vim-less
+	url = https://github.com/groenewege/vim-less.git
