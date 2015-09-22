@@ -98,4 +98,6 @@ let g:airline_powerline_fonts = 1
 
 let g:ctrlp_working_path_mode = ''
 
+let g:jsx_ext_required = 0
+
 autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab

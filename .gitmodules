@@ -103,3 +103,9 @@
 [submodule "home/.vim/bundle/vim-less"]
 	path = home/.vim/bundle/vim-less
 	url = https://github.com/groenewege/vim-less.git
+[submodule "home/.vim/bundle/yajs.vim"]
+	path = home/.vim/bundle/yajs.vim
+	url = https://github.com/othree/yajs.vim.git
+[submodule "home/.vim/bundle/vim-jsx"]
+	path = home/.vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
