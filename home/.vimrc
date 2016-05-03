@@ -28,7 +28,7 @@ set notimeout             " i like to be pokey
 set ttimeout              " timeout on key-codes
 set ttimeoutlen=100       " timeout on key-codes after 100ms
 set ruler                 " the ruler on the bottom is useful
-set scrolloff=1           " dont let the curser get too close to the edge
+set scrolloff=10          " dont let the curser get too close to the edge
 set shiftwidth=4          " Set indention level to be the same as softtabstop
 set showcmd               " Show (partial) command in status line.
 set showmatch             " Show matching brackets.
@@ -97,7 +97,12 @@ let g:airline_powerline_fonts = 1
 " let g:SuperTabDefaultCompletionType = "context"
 
 let g:ctrlp_working_path_mode = ''
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 
 let g:jsx_ext_required = 0
 
 autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
+
+" Search results go to center of screen
+nnoremap n nzz
+nnoremap N Nzz
